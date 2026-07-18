@@ -1,6 +1,8 @@
 ## 🤝 ¡Participa y Colabora!
-Este proyecto es colaborativo. Tu experiencia y visión ética son valiosas para construir un estándar más sólido.
+Este Playbook es un proyecto vivo y de código abierto. Tu experiencia en Ingeniería en Informática y Sistemas es valiosa para construir un estándar más sólido.
 
+- **¿Tienes una sugerencia o dilema ético?** [Abre un nuevo Issue aquí](https://github.com/Ivan-10k/ethical-playbook/issues/new/choose).
+- **¿Quieres aportar documentación?** Revisa nuestro archivo `CONTRIBUTING.md` y envía un Pull Request.
 - **¿Tienes un dilema ético que contar?** [Abre una Discusión aquí](https://github.com/Ivan-10k/ethical-playbook/discussions).
 - **¿Quieres sugerir una mejora técnica o ética?** [Crea una recomendación](https://github.com/Ivan-10k/ethical-playbook/issues/new/choose).
 - **¿Quieres aprender de otros?** Revisa las [Discusiones existentes](https://github.com/Ivan-10k/ethical-playbook/discussions).
@@ -11,6 +13,7 @@ Este repositorio aloja una herramienta interactiva y dinámica diseñada para la
 
 A diferencia de los códigos de conducta puramente teóricos, este proyecto adapta los modelos técnicos de respuesta a incidentes de seguridad informática para ofrecer guías de acción estructuradas y aplicables ante dilemas reales en el entorno laboral.
 
+*Juntos construimos una tecnología más responsable.*
 ---
 
 ## 📋 Descripción del Proyecto
