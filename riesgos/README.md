@@ -16,11 +16,11 @@ Para reducir el impacto de los incidentes de seguridad identificados, se estable
 La gestión detallada de riesgos considerando el impacto potencial y la probabilidad de ocurrencia no es un evento estático. Se recomienda realizar una revisión de esta matriz cada trimestre para ajustar los niveles de riesgo según la evolución tecnológica del sistema y las nuevas amenazas detectadas.
 
 ## Matriz de Riesgos Éticos
-[cite_start]Clasificación detallada de los riesgos considerando el impacto potencial y la probabilidad de ocurrencia:
+Clasificación detallada de los riesgos considerando el impacto potencial y la probabilidad de ocurrencia:
 
 | Riesgo Ético | Impacto | Probabilidad | Nivel de Riesgo |
 | :--- | :--- | :--- | :--- |
-| **Filtración de datos** | Alto | Medio | [cite_start]Crítico [cite: 219] |
-| **Acceso no autorizado** | Alto | Alto | [cite_start]Crítico [cite: 219] |
-| **Plagio de código** | Medio | Alto | [cite_start]Alto [cite: 219] |
-| **Uso inseguro de IA** | Alto | Medio | [cite_start]Alto [cite: 219] |
+| **Filtración de datos** | Alto | Medio | Crítico |
+| **Acceso no autorizado** | Alto | Alto | Crítico |
+| **Plagio de código** | Medio | Alto | Alto |
+| **Uso inseguro de IA** | Alto | Medio | Alto |
