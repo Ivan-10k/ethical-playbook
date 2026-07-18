@@ -1,4 +1,4 @@
-##📝 Auditorías Éticas por Áreas de la Ingeniería Informática y Sistemas
+## 📝 Auditorías Éticas por Áreas de la Ingeniería Informática y Sistemas
 
 La evaluación de incidentes y dilemas éticos no se limita a la interfaz, sino que atraviesa todas las capas tecnológicas de un proyecto. Este Playbook categoriza las auditorías en las tres ramas fundamentales de la disciplina:
 
