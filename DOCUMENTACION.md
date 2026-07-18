@@ -7,13 +7,14 @@ Este Playbook es un proyecto vivo y de código abierto. Tu experiencia en Ingeni
 - **¿Quieres sugerir una mejora técnica o ética?** [Crea una recomendación](https://github.com/Ivan-10k/ethical-playbook/issues/new/choose).
 - **¿Quieres aprender de otros?** Revisa las [Discusiones existentes](https://github.com/Ivan-10k/ethical-playbook/discussions).
 
+*Juntos construimos una tecnología más responsable.*
+
 # Playbook Digital Colaborativo: Gestión de Dilemas Éticos en Ingeniería Informática y Sistemas
 
 Este repositorio aloja una herramienta interactiva y dinámica diseñada para la gestión de incidentes éticos y la promoción de buenas prácticas en la práctica profesional de la ingeniería de software y la administración de tecnologías de la información. 
 
 A diferencia de los códigos de conducta puramente teóricos, este proyecto adapta los modelos técnicos de respuesta a incidentes de seguridad informática para ofrecer guías de acción estructuradas y aplicables ante dilemas reales en el entorno laboral.
 
-*Juntos construimos una tecnología más responsable.*
 ---
 
 ## 📋 Descripción del Proyecto
