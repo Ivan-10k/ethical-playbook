@@ -1,3 +1,10 @@
+## 🤝 ¡Participa y Colabora!
+Este proyecto es colaborativo. Tu experiencia y visión ética son valiosas para construir un estándar más sólido.
+
+- **¿Tienes un dilema ético que contar?** [Abre una Discusión aquí](https://github.com/Ivan-10k/ethical-playbook/discussions).
+- **¿Quieres sugerir una mejora técnica o ética?** [Crea una recomendación](https://github.com/Ivan-10k/ethical-playbook/issues/new/choose).
+- **¿Quieres aprender de otros?** Revisa las [Discusiones existentes](https://github.com/Ivan-10k/ethical-playbook/discussions).
+
 # Playbook Digital Colaborativo: Gestión de Dilemas Éticos en Ingeniería Informática y Sistemas
 
 Este repositorio aloja una herramienta interactiva y dinámica diseñada para la gestión de incidentes éticos y la promoción de buenas prácticas en la práctica profesional de la ingeniería de software y la administración de tecnologías de la información. 
